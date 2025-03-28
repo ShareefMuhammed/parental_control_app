@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040594814063",
+    "project_id": "pc-app-3de44",
+    "storage_bucket": "pc-app-3de44.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040594814063:android:4818d69716a6d5c758799a",
+        "android_client_info": {
+          "package_name": "com.example.parental_control_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqFWfXxIftOFIRkOc0BUo76636MbEidYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
